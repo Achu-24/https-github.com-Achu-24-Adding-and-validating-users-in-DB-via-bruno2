@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "ham",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
